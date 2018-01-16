@@ -8,7 +8,7 @@
 
 |章节|地址|参与者|状态|
 |:---|:---|:---|:---|
-|**1. 介绍**|[原文](http://learnyouahaskell.com/introduction)|[Jovoc](https://github.com/Jovoc)|进行中|
+|**1. [介绍](第一章.介绍.md)**|[原文](http://learnyouahaskell.com/introduction)|[Jovoc](https://github.com/Jovoc)|校验中|
 |**2. 开始着手**|[原文](http://learnyouahaskell.com/starting-out)|||
 |**3. 类型与类型类**|[原文](http://learnyouahaskell.com/types-and-typeclasses)|||
 |**4. 函数语法**|[原文](http://learnyouahaskell.com/syntax-in-functions)|||
