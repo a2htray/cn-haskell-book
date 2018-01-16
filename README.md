@@ -1,4 +1,6 @@
-# 英文名《Learn You a Haskell for Great Good》
+# 《Haskell利剑》
+
+**英文名[《Learn You a Haskell for Great Good》](http://learnyouahaskell.com)**
 
 **中文翻译项目**
 
