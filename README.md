@@ -10,7 +10,7 @@
 |:---|:---|:---|:---|
 |**1. [介绍](第一章.介绍.md)**|[原文](http://learnyouahaskell.com/introduction)|[Jovoc](https://github.com/Jovoc)|已完成|
 |**2. 开始着手**|[原文](http://learnyouahaskell.com/starting-out)|[Jovoc](https://github.com/Jovoc)|进行中|
-|**3. 类型与类型类**|[原文](http://learnyouahaskell.com/types-and-typeclasses)|[a2htray](https://github.com/a2htray)|进行中|
+|**3. [类型与类型类](第三章.类型与类型类.md)**|[原文](http://learnyouahaskell.com/types-and-typeclasses)|[a2htray](https://github.com/a2htray)|已完成|
 |**4. 函数语法**|[原文](http://learnyouahaskell.com/syntax-in-functions)|||
 |**5. [递归](第五章.递归.md)**|[原文](http://learnyouahaskell.com/recursion)|[a2htray](https://github.com/a2htray)|已完成|
 |**6. [高阶函数](第六章.高阶函数.md)**|[原文](http://learnyouahaskell.com/higher-order-functions)|[a2htray](https://github.com/a2htray)|进行中|
