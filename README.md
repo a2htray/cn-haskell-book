@@ -15,7 +15,7 @@
 |**3. [类型与类型类](第三章.类型与类型类.md)**|[原文](http://learnyouahaskell.com/types-and-typeclasses)|[a2htray](https://github.com/a2htray)|已完成|
 |**4. [函数语法](第四章.函数语法.md)**|[原文](http://learnyouahaskell.com/syntax-in-functions)|[a2htray](https://github.com/a2htray)|已完成|
 |**5. [递归](第五章.递归.md)**|[原文](http://learnyouahaskell.com/recursion)|[a2htray](https://github.com/a2htray)|已完成|
-|**6. [高阶函数](第六章.高阶函数.md)**|[原文](http://learnyouahaskell.com/higher-order-functions)|[a2htray](https://github.com/a2htray)|进行中|
+|**6. [高阶函数](第六章.高阶函数.md)**|[原文](http://learnyouahaskell.com/higher-order-functions)|[a2htray](https://github.com/a2htray)|已完成|
 |**7. 模块**|[原文](http://learnyouahaskell.com/modules)|||
 |**8. 自定义类型与类型类**|[原文](http://learnyouahaskell.com/making-our-own-types-and-typeclasses)|||
 |**9. 输入与输出**|[原文](http://learnyouahaskell.com/input-and-output)|||
